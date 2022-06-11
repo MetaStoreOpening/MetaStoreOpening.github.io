@@ -10,7 +10,7 @@
             <li>
               <a href="{{ site.source_repo }}">Contribute!</a>
             </li>
-            {% for post in site.posts reverse %}
+            {% for post in site.posts reversed %}
             {% if post.title %}
             <li>
                 <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
