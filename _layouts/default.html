@@ -14,13 +14,8 @@
         {% include footer.html %}
       </main>
     </div>
-  {% include google-analytics.html %}
-  {% if page.layout == 'default' %}
-    {% include main_map.html %}
+  {% if site.google-analytics-ua %}
+    {% include google-analytics.html %}
   {% endif %}
-  {% if page.layout == 'post' %}
-    {% include post_map.html %}
-  {% endif %}
-  {% include scripts.html %}
   </body>
 </html>
