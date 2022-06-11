@@ -1,7 +1,7 @@
 # Site settings
 title: Meta Store Opening
 email: csaba.toth.us@gmail.com
-description: My trip to the opening of the first ever Meta Store.
+description: My trip to the opening of the first ever Meta Store, 2022/05/09.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://metastoreopening.github.io/" # the base hostname & protocol for your site
 copyright: '&copy; 2022 Csaba Toth'
@@ -17,4 +17,3 @@ material_theme: indigo-red
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 # google-analytics-ua: UA-86563829-9
-
