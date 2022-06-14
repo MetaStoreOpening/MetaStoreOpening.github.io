@@ -9,4 +9,4 @@ default_yaw: 0
 thumbnail: laser_quest_th.jpg
 youtube_id: Aqnl8PYmG7Y
 ---
-In this quest the player has to slice red and blue cubes with a virtual light saber. This is the 2nd most athletic quest after the body combat. I think similarly to body combat the red and blue colors belong to left and right arm, so you have to slice them with the proper hand light saber.
+In this quest the player has to slice red and blue cubes with a virtual lightsaber. This is the 2nd most athletic quest after body combat. I think similarly to body combat the red and blue colors here belong to the left and right arm, so you have to slice them with the color matched lightsaber.

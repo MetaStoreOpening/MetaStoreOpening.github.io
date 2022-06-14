@@ -9,4 +9,4 @@ default_yaw: 0
 thumbnail: ray_ban_glasses_th.jpg
 youtube_id: JeKuyCGLFFE
 ---
-These Ray Ban Smart Glasses were comfortable and they could record video + audio and upload staright up to Facebook.
+These Ray Ban Smart Glasses were comfortable and they could record video + audio and upload straight up to Facebook.

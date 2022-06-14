@@ -9,4 +9,4 @@ default_yaw: 0
 thumbnail: waiting_for_signup_th.jpg
 youtube_id: Yfqys8eTtWo
 ---
-I spent just a few minutes at the stands, and headed to the signup. Unfortunately there was already a line, and I learned that possibly I'll have my turn after about 2 hours of wait. We the four quests were: fishing, light saber game, Les Mills Body Combat demo, I cannto remember the fourth one. Each one is about 10-15 minutes. I decided to stay for some demos to observe and I can make a better decision.
+I spent just a few minutes at the stands, and headed to the signup. Unfortunately there was already a line, and I learned that possibly I'll have my turn after about 2 hours of waiting. The four quests were: fishing, lightsaber game, Les Mills Body Combat demo, I cannot remember the fourth one. Each one is about 10-15 minutes. I decided to stay for some demos to observe and I can make a better decision.

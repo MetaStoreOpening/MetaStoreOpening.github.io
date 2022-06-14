@@ -9,4 +9,4 @@ default_yaw: 0
 thumbnail: after_entering_th.jpg
 youtube_id: 7xWm9R9fuB8
 ---
-The first view of the store right after entering. The store has a very clean look, well designed. There are sections for the Ray Ban glasses ahead, then a separated show room for the Portal device, and and open stands towards the Quest arena and signup area.
+The first view of the store right after entering. The store has a very clean look, well designed. There are sections for the Ray Ban glasses ahead, then a separate showroom for the Portal device, and open stands towards the Quest arena and signup area.

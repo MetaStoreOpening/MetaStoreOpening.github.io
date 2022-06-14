@@ -9,4 +9,4 @@ default_yaw: 0
 thumbnail: in_the_line_th.jpg
 youtube_id: lSKhBbXav-8
 ---
-The weather was nice. It was somewhat windy, temperature is in the high 60s, so when I was in shade I could feel cold, but on the sun I felt warm.
+The weather was nice. It was somewhat windy, the temperature was in the high 60s, so when I was in the shade I could feel cold, but in the sun I felt warm.
